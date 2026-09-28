@@ -1,0 +1,1643 @@
+{
+  "competitors": [
+    {
+      "id": "comp-tesla",
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "website": "https://www.tesla.com",
+      "domain": "tesla.com",
+      "industry": "Automotive & Autonomous Systems",
+      "tier": "Tier 1",
+      "description": "Vertically integrated clean energy and autonomous mobility provider with high software and FSD subscription margins.",
+      "headquarters": "Austin, Texas, USA",
+      "foundedYear": 2003,
+      "estimatedRevenue": "$98.5B",
+      "employeeCount": "140,000+",
+      "status": "active",
+      "threatLevel": "high",
+      "strategicPosture": "Aggressive Expansion",
+      "keyProducts": [
+        {
+          "name": "Model Y / Model 3",
+          "category": "EV Hardware",
+          "pricingModel": "Direct-to-consumer dynamic pricing",
+          "description": "High volume EV platforms with weekly price adjustments."
+        },
+        {
+          "name": "Full Self-Driving (FSD)",
+          "category": "Autonomous Software",
+          "pricingModel": "$79/month subscription or $8,000 upfront",
+          "description": "Vision-only neural network self-driving software."
+        },
+        {
+          "name": "Megapack / Energy",
+          "category": "Grid Storage",
+          "pricingModel": "B2B utility contract",
+          "description": "Utility-scale lithium-ion battery storage."
+        }
+      ],
+      "activeSignalsCount": 3,
+      "lastScannedAt": "2026-09-28T18:30:00Z",
+      "memoryDepthMonths": 28
+    },
+    {
+      "id": "comp-anthropic",
+      "name": "Anthropic",
+      "ticker": "PRIVATE",
+      "website": "https://www.anthropic.com",
+      "domain": "anthropic.com",
+      "industry": "Frontier AI & Enterprise Reasoning",
+      "tier": "Tier 1",
+      "description": "AI safety and frontier research lab developing the Claude family of reasoning and agentic models.",
+      "headquarters": "San Francisco, California, USA",
+      "foundedYear": 2021,
+      "estimatedRevenue": "$2.8B ARR",
+      "employeeCount": "950+",
+      "status": "active",
+      "threatLevel": "critical",
+      "strategicPosture": "Product Innovation",
+      "keyProducts": [
+        {
+          "name": "Claude 3.7 Sonnet",
+          "category": "Hybrid Reasoning LLM",
+          "pricingModel": "$3 / $15 per M tokens",
+          "description": "Variable test-time compute with sub-second stream mode."
+        },
+        {
+          "name": "Claude Enterprise Workspaces",
+          "category": "SaaS Workflow",
+          "pricingModel": "$30/seat/month",
+          "description": "SOC2 enterprise intelligence with 500k context window."
+        },
+        {
+          "name": "Anthropic Computer Use API",
+          "category": "Agentic Framework",
+          "pricingModel": "Token-metered",
+          "description": "Autonomous desktop GUI interaction agent."
+        }
+      ],
+      "activeSignalsCount": 6,
+      "lastScannedAt": "2026-09-28T19:15:00Z",
+      "memoryDepthMonths": 32
+    },
+    {
+      "id": "comp-openai",
+      "name": "OpenAI",
+      "ticker": "PRIVATE",
+      "website": "https://openai.com",
+      "domain": "openai.com",
+      "industry": "Frontier AI & Developer Platforms",
+      "tier": "Tier 1",
+      "description": "Leading AI research and commercial deployment company, creators of GPT-4o, o3, and ChatGPT.",
+      "headquarters": "San Francisco, California, USA",
+      "foundedYear": 2015,
+      "estimatedRevenue": "$11.2B ARR",
+      "employeeCount": "2,200+",
+      "status": "active",
+      "threatLevel": "critical",
+      "strategicPosture": "Ecosystem Lock-in",
+      "keyProducts": [
+        {
+          "name": "o3 Reasoning Engine",
+          "category": "Frontier Reasoning",
+          "pricingModel": "$15 / $60 per M tokens",
+          "description": "Deep reasoning engine optimized for complex science & code."
+        },
+        {
+          "name": "GPT-4o & Mini",
+          "category": "Multimodal LLM",
+          "pricingModel": "$2.50 / $10 per M tokens",
+          "description": "Omni real-time voice, vision, and text."
+        },
+        {
+          "name": "ChatGPT Team/Enterprise",
+          "category": "Productivity",
+          "pricingModel": "$25 - $60/user/month",
+          "description": "Enterprise generative workspace."
+        }
+      ],
+      "activeSignalsCount": 5,
+      "lastScannedAt": "2026-09-28T17:45:00Z",
+      "memoryDepthMonths": 36
+    },
+    {
+      "id": "comp-snowflake",
+      "name": "Snowflake",
+      "ticker": "SNOW",
+      "website": "https://www.snowflake.com",
+      "domain": "snowflake.com",
+      "industry": "Cloud Data Platform & AI Warehousing",
+      "tier": "Tier 1",
+      "description": "Cloud data warehouse and analytical engine pivoting toward open Apache Iceberg storage and Cortex AI.",
+      "headquarters": "Bozeman, Montana, USA",
+      "foundedYear": 2012,
+      "estimatedRevenue": "$3.6B",
+      "employeeCount": "7,800+",
+      "status": "active",
+      "threatLevel": "medium",
+      "strategicPosture": "Margin Defense",
+      "keyProducts": [
+        {
+          "name": "Snowflake Data Cloud",
+          "category": "Analytical Warehouse",
+          "pricingModel": "Credit-based consumption",
+          "description": "Multi-cloud elastic data warehouse."
+        },
+        {
+          "name": "Polaris Catalog",
+          "category": "Open Data Governance",
+          "pricingModel": "Hosted / Open Source",
+          "description": "Apache Iceberg open table format catalog."
+        },
+        {
+          "name": "Cortex AI",
+          "category": "Managed ML",
+          "pricingModel": "Compute credit consumption",
+          "description": "Integrated serverless LLM functions inside SQL."
+        }
+      ],
+      "activeSignalsCount": 3,
+      "lastScannedAt": "2026-09-27T12:00:00Z",
+      "memoryDepthMonths": 24
+    },
+    {
+      "id": "comp-databricks",
+      "name": "Databricks",
+      "ticker": "PRIVATE",
+      "website": "https://www.databricks.com",
+      "domain": "databricks.com",
+      "industry": "Data Intelligence & Lakehouse AI",
+      "tier": "Tier 1",
+      "description": "Lakehouse pioneer combining data engineering, Delta Lake, and Mosaic AI compound model systems.",
+      "headquarters": "San Francisco, California, USA",
+      "foundedYear": 2013,
+      "estimatedRevenue": "$2.6B ARR",
+      "employeeCount": "6,500+",
+      "status": "active",
+      "threatLevel": "high",
+      "strategicPosture": "Aggressive Expansion",
+      "keyProducts": [
+        {
+          "name": "Data Intelligence Platform",
+          "category": "Data Lakehouse",
+          "pricingModel": "DBU (Databricks Units)",
+          "description": "Unified Spark and Delta Lake governance."
+        },
+        {
+          "name": "Mosaic AI",
+          "category": "GenAI Model Building",
+          "pricingModel": "Token & compute consumption",
+          "description": "Fine-tuning, pre-training, and compound agent routing."
+        },
+        {
+          "name": "Unity Catalog",
+          "category": "Universal Catalog",
+          "pricingModel": "Included with platform",
+          "description": "Open governance for tables, models, and files."
+        }
+      ],
+      "activeSignalsCount": 4,
+      "lastScannedAt": "2026-09-28T09:30:00Z",
+      "memoryDepthMonths": 26
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-tesla-2026-09",
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "title": "Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo",
+      "description": "Tesla lowered Model Y Long Range MSRP to $42,990 and dropped FSD subscription from $99/mo to $79/mo in North America.",
+      "eventDate": "2026-09-26T14:30:00Z",
+      "category": "Pricing",
+      "impactLevel": "high",
+      "primarySourceId": "src-tesla-01",
+      "confidence": 0.87,
+      "entities": [
+        "Tesla",
+        "Model Y",
+        "FSD Subscription",
+        "Giga Texas"
+      ],
+      "extractedMetrics": {
+        "price_delta_pct": -8.5,
+        "fsd_monthly_price": 79,
+        "new_base_price": 42990
+      },
+      "historicalConnection": "Similar pricing movements occurred 3 times previously (March 2024, January 2025, and August 2025), each preceding a quarterly delivery push.",
+      "isDemo": true,
+      "source": {
+        "id": "src-tesla-01",
+        "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+        "title": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+        "publisher": "Tesla Investor Relations",
+        "author": "Treasury & Pricing Operations",
+        "publishedAt": "2026-09-26T14:30:00Z",
+        "snippet": "Tesla Inc. announced an 8.5% price reduction on the Model Y Long Range and lowered the monthly FSD subscription to $79/mo across North America.",
+        "fullText": "AUSTIN, Texas — Tesla has updated consumer pricing on its top-selling Model Y SUV. The Long Range trim now starts at $42,990, representing an 8.5% decrease. Simultaneously, the monthly Full Self-Driving (Supervised) package was revised to $79/mo. Management cited manufacturing efficiencies at Giga Texas and battery cell pack cost reductions as primary drivers.",
+        "confidence": 0.96,
+        "isVerified": true
+      }
+    },
+    {
+      "id": "evt-anthropic-2026-09",
+      "competitorId": "comp-anthropic",
+      "competitorName": "Anthropic",
+      "title": "Claude 3.7 Sonnet Released with Dynamic Hybrid Reasoning",
+      "description": "Anthropic rolled out Claude 3.7 with selectable test-time reasoning compute, matching OpenAI o3 on benchmarks while retaining low latency streaming.",
+      "eventDate": "2026-09-22T17:00:00Z",
+      "category": "Product Launch",
+      "impactLevel": "critical",
+      "primarySourceId": "src-anthropic-01",
+      "confidence": 0.94,
+      "entities": [
+        "Claude 3.7 Sonnet",
+        "Anthropic",
+        "Hybrid Reasoning",
+        "AWS Bedrock"
+      ],
+      "extractedMetrics": {
+        "max_thinking_budget": 64000,
+        "input_token_price": 3,
+        "output_token_price": 15
+      },
+      "historicalConnection": "Follows Anthropic's established 14-21 day counter-announcement pattern following major OpenAI releases.",
+      "isDemo": true
+    },
+    {
+      "id": "evt-snowflake-2026-09",
+      "competitorId": "comp-snowflake",
+      "competitorName": "Snowflake",
+      "title": "Polaris Catalog General Availability & Apache Iceberg Fee Adjustments",
+      "description": "Snowflake launched Polaris Catalog globally, introducing new storage compute rates for non-proprietary open Iceberg tables.",
+      "eventDate": "2026-09-18T13:00:00Z",
+      "category": "Technology",
+      "impactLevel": "medium",
+      "primarySourceId": "src-snowflake-01",
+      "confidence": 0.89,
+      "entities": [
+        "Snowflake",
+        "Polaris Catalog",
+        "Apache Iceberg",
+        "Cortex AI"
+      ],
+      "extractedMetrics": {
+        "storage_margin_target": 0.72,
+        "catalog_nodes": 1200
+      },
+      "historicalConnection": "Directly counters Databricks' June 2024 acquisition of Tabular and open Unity Catalog push.",
+      "isDemo": true
+    },
+    {
+      "id": "evt-databricks-2026-09",
+      "competitorId": "comp-databricks",
+      "competitorName": "Databricks",
+      "title": "Mosaic AI Agent Evaluation Framework Launch",
+      "description": "Databricks released automated compound agent benchmarking and enterprise guardrails within the Lakehouse.",
+      "eventDate": "2026-09-10T15:00:00Z",
+      "category": "Product Launch",
+      "impactLevel": "high",
+      "primarySourceId": "src-databricks-01",
+      "confidence": 0.91,
+      "entities": [
+        "Databricks",
+        "Mosaic AI",
+        "Agent Framework",
+        "Compound AI"
+      ],
+      "extractedMetrics": {
+        "enterprise_adoption_pct": 40,
+        "eval_speedup_x": 4.2
+      },
+      "historicalConnection": "Expands the strategic AI moat initiated in 2023 following the $1.3B MosaicML transaction.",
+      "isDemo": true
+    },
+    {
+      "id": "evt-openai-2026-09",
+      "competitorId": "comp-openai",
+      "competitorName": "OpenAI",
+      "title": "o3 Frontier Reasoning Model and 50% Batch API Pricing",
+      "description": "OpenAI introduced the o3 reasoning engine alongside 50% discount tiers for scheduled batch inference.",
+      "eventDate": "2026-09-04T16:00:00Z",
+      "category": "Pricing",
+      "impactLevel": "critical",
+      "primarySourceId": "src-openai-01",
+      "confidence": 0.95,
+      "entities": [
+        "OpenAI",
+        "o3 Engine",
+        "Batch API",
+        "Enterprise Tier"
+      ],
+      "extractedMetrics": {
+        "batch_discount_pct": 50,
+        "input_price_per_m": 15,
+        "output_price_per_m": 60
+      },
+      "historicalConnection": "Consistent with OpenAI's annual Autumn developer platform updates to lock in annual budget commitments.",
+      "isDemo": true
+    },
+    {
+      "id": "evt-tesla-2025-08",
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "title": "Tesla Q3 Price Cut on Model Y & Model 3 Across US Market",
+      "description": "Tesla lowered Model Y prices by 6% ahead of Q3 delivery figures to defend market share against Hyundai Ioniq 5 and Ford Mustang Mach-E.",
+      "eventDate": "2025-08-14T10:00:00Z",
+      "category": "Pricing",
+      "impactLevel": "high",
+      "primarySourceId": "src-tesla-02",
+      "confidence": 0.93,
+      "entities": [
+        "Tesla",
+        "Model Y",
+        "Model 3",
+        "Pricing Strategy"
+      ],
+      "extractedMetrics": {
+        "price_delta_pct": -6
+      },
+      "historicalConnection": "Part of the recurring seasonal end-of-quarter volume push.",
+      "isDemo": true,
+      "source": {
+        "id": "src-tesla-02",
+        "url": "https://bloomberg.com/news/articles/2026-09-26/tesla-slashes-prices-ev-price-war",
+        "title": "Tesla Rekindles EV Margin War Following Chinese Export Influx",
+        "publisher": "Bloomberg Intelligence",
+        "author": "Dana Hull",
+        "publishedAt": "2026-09-26T18:15:00Z",
+        "snippet": "Automotive analysts observe this marks Tesla's fourth major pricing intervention following competitor inventory builds.",
+        "fullText": "Tesla's sudden price adjustment mirrors tactical price cuts in early 2024 and mid 2025, systematically pressuring legacy OEM EV margins just as Ford and GM report higher dealer inventory.",
+        "confidence": 0.92,
+        "isVerified": true,
+        "conflictsDetected": true,
+        "conflictDetails": {
+          "conflictingSourceUrl": "https://reuters.com/business/autos/tesla-dealer-margins-disputed-2026-09-27",
+          "conflictingPublisher": "Reuters Automotive",
+          "divergenceReason": "Bloomberg reports price cut is margin-pressuring move against legacy OEMs, whereas Reuters reports internal dealer incentives suggest an inventory clearance ahead of Juniper refresh."
+        }
+      }
+    },
+    {
+      "id": "evt-tesla-2025-01",
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "title": "Tesla FSD Price Lowered to $99/mo and Global Refresh Announced",
+      "description": "Tesla cut FSD subscription pricing by 50% from $199/mo to $99/mo to accelerate fleet autonomous telemetry collection.",
+      "eventDate": "2025-01-12T16:00:00Z",
+      "category": "Pricing",
+      "impactLevel": "high",
+      "primarySourceId": "src-tesla-01",
+      "confidence": 0.95,
+      "entities": [
+        "Tesla",
+        "FSD Subscription",
+        "Autopilot"
+      ],
+      "extractedMetrics": {
+        "monthly_price": 99
+      },
+      "historicalConnection": "Initial price elasticity experiment that proved 3x subscription uplift.",
+      "isDemo": true,
+      "source": {
+        "id": "src-tesla-01",
+        "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+        "title": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+        "publisher": "Tesla Investor Relations",
+        "author": "Treasury & Pricing Operations",
+        "publishedAt": "2026-09-26T14:30:00Z",
+        "snippet": "Tesla Inc. announced an 8.5% price reduction on the Model Y Long Range and lowered the monthly FSD subscription to $79/mo across North America.",
+        "fullText": "AUSTIN, Texas — Tesla has updated consumer pricing on its top-selling Model Y SUV. The Long Range trim now starts at $42,990, representing an 8.5% decrease. Simultaneously, the monthly Full Self-Driving (Supervised) package was revised to $79/mo. Management cited manufacturing efficiencies at Giga Texas and battery cell pack cost reductions as primary drivers.",
+        "confidence": 0.96,
+        "isVerified": true
+      }
+    },
+    {
+      "id": "evt-anthropic-2025-10",
+      "competitorId": "comp-anthropic",
+      "competitorName": "Anthropic",
+      "title": "Claude 3.5 Sonnet Upgraded with Autonomous Computer Use API",
+      "description": "Anthropic released the industry's first desktop GUI agent controller, allowing Claude to click, type, and control user applications.",
+      "eventDate": "2025-10-22T14:00:00Z",
+      "category": "Technology",
+      "impactLevel": "critical",
+      "primarySourceId": "src-anthropic-01",
+      "confidence": 0.96,
+      "entities": [
+        "Claude 3.5 Sonnet",
+        "Computer Use",
+        "Agentic Systems"
+      ],
+      "historicalConnection": "Catalyzed the industry shift toward computer-using agents.",
+      "isDemo": true
+    },
+    {
+      "id": "evt-databricks-2024-06",
+      "competitorId": "comp-databricks",
+      "competitorName": "Databricks",
+      "title": "Databricks Acquired Tabular for Over $1 Billion",
+      "description": "Databricks purchased Tabular, founded by the creators of Apache Iceberg, neutralizing Snowflake's open format positioning.",
+      "eventDate": "2024-06-04T12:00:00Z",
+      "category": "Acquisition",
+      "impactLevel": "critical",
+      "primarySourceId": "src-databricks-01",
+      "confidence": 0.98,
+      "entities": [
+        "Databricks",
+        "Tabular",
+        "Apache Iceberg",
+        "Delta Lake"
+      ],
+      "extractedMetrics": {
+        "deal_value_usd": 1050000000
+      },
+      "historicalConnection": "Triggered the modern lakehouse format war with Snowflake.",
+      "isDemo": true
+    }
+  ],
+  "memories": [
+    {
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "memoryType": "relationship",
+      "content": "Tesla: Tesla FSD Price Lowered to $99/mo and Global Refresh Announced. Impact rated as high. Entities: Tesla, FSD Subscription, Autopilot.",
+      "category": "Pricing",
+      "temporalAnchor": "2025-01-12T16:00:00Z",
+      "importanceWeight": 0.85,
+      "sourceEventIds": [
+        "src-tesla-01"
+      ],
+      "entities": [
+        "Tesla",
+        "FSD Subscription",
+        "Autopilot"
+      ],
+      "relationships": [
+        {
+          "targetEntity": "Pricing",
+          "relationType": "strategic_focus",
+          "strength": 0.95
+        }
+      ],
+      "recallCount": 2,
+      "id": "mem-1790619967344-mejpa"
+    },
+    {
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "memoryType": "relationship",
+      "content": "Tesla: Tesla Q3 Price Cut on Model Y & Model 3 Across US Market. Impact rated as high. Entities: Tesla, Model Y, Model 3, Pricing Strategy.",
+      "category": "Pricing",
+      "temporalAnchor": "2025-08-14T10:00:00Z",
+      "importanceWeight": 0.85,
+      "sourceEventIds": [
+        "src-tesla-02"
+      ],
+      "entities": [
+        "Tesla",
+        "Model Y",
+        "Model 3",
+        "Pricing Strategy"
+      ],
+      "relationships": [
+        {
+          "targetEntity": "Pricing",
+          "relationType": "strategic_focus",
+          "strength": 0.93
+        }
+      ],
+      "recallCount": 2,
+      "id": "mem-1790619967318-fyrhn"
+    },
+    {
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "memoryType": "relationship",
+      "content": "Tesla: Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo. Impact rated as high. Entities: Tesla, Model Y, FSD Subscription, Giga Texas.",
+      "category": "Pricing",
+      "temporalAnchor": "2026-09-26T14:30:00Z",
+      "importanceWeight": 0.85,
+      "sourceEventIds": [
+        "src-tesla-01"
+      ],
+      "entities": [
+        "Tesla",
+        "Model Y",
+        "FSD Subscription",
+        "Giga Texas"
+      ],
+      "relationships": [
+        {
+          "targetEntity": "Pricing",
+          "relationType": "strategic_focus",
+          "strength": 0.87
+        }
+      ],
+      "recallCount": 2,
+      "id": "mem-1790619967176-adl7u"
+    },
+    {
+      "id": "mem-tsla-pattern-01",
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "memoryType": "pattern",
+      "content": "Tesla operates a cyclical 6-to-8 month pricing adjustment playbook. Whenever inventory days exceed 28 days or competitor BEV price reductions occur, Tesla lowers Model Y baseline price by 6-9% and drops FSD subscription price to bolster annualized software recurring revenue.",
+      "category": "Pricing",
+      "temporalAnchor": "2024-03-01T00:00:00Z",
+      "importanceWeight": 0.94,
+      "sourceEventIds": [
+        "evt-tesla-2026-09",
+        "evt-tesla-2025-08",
+        "evt-tesla-2025-01"
+      ],
+      "entities": [
+        "Tesla",
+        "Model Y",
+        "FSD Subscription",
+        "Pricing Elasticity"
+      ],
+      "relationships": [
+        {
+          "targetEntity": "Automotive Margin",
+          "relationType": "sacrifices_for_volume",
+          "strength": 0.9
+        },
+        {
+          "targetEntity": "FSD Subscription",
+          "relationType": "software_upsell_cushion",
+          "strength": 0.85
+        }
+      ],
+      "recallCount": 14
+    },
+    {
+      "id": "mem-anthropic-release-cadence",
+      "competitorId": "comp-anthropic",
+      "competitorName": "Anthropic",
+      "memoryType": "pattern",
+      "content": "Anthropic exhibits an aggressive counter-cyclical release cycle against OpenAI. In 4 out of 5 major product milestones between 2024 and 2026, Anthropic delivered frontier model upgrades or price adjustments within 14 to 21 days of an OpenAI announcement.",
+      "category": "Product Launch",
+      "temporalAnchor": "2024-06-15T00:00:00Z",
+      "importanceWeight": 0.96,
+      "sourceEventIds": [
+        "evt-anthropic-2026-09",
+        "evt-anthropic-2025-10"
+      ],
+      "entities": [
+        "Anthropic",
+        "OpenAI",
+        "Claude",
+        "Release Timing"
+      ],
+      "relationships": [
+        {
+          "targetEntity": "OpenAI",
+          "relationType": "direct_cadence_counter",
+          "strength": 0.95
+        },
+        {
+          "targetEntity": "AWS Bedrock",
+          "relationType": "distribution_channel",
+          "strength": 0.88
+        }
+      ],
+      "recallCount": 22
+    },
+    {
+      "id": "mem-lakehouse-format-war",
+      "competitorId": "comp-snowflake",
+      "competitorName": "Snowflake",
+      "memoryType": "relationship",
+      "content": "The Snowflake-Databricks rivalry has evolved from compute performance into open data catalog control. Following Databricks' acquisition of Tabular, Snowflake has prioritized Polaris Catalog as a loss-leader to retain high-margin proprietary Cortex compute workloads.",
+      "category": "Strategic Shift",
+      "temporalAnchor": "2024-06-05T00:00:00Z",
+      "importanceWeight": 0.91,
+      "sourceEventIds": [
+        "evt-snowflake-2026-09",
+        "evt-databricks-2024-06"
+      ],
+      "entities": [
+        "Snowflake",
+        "Databricks",
+        "Polaris Catalog",
+        "Apache Iceberg",
+        "Tabular"
+      ],
+      "relationships": [
+        {
+          "targetEntity": "Databricks",
+          "relationType": "head_to_head_competitor",
+          "strength": 0.98
+        },
+        {
+          "targetEntity": "Apache Iceberg",
+          "relationType": "standardization_battleground",
+          "strength": 0.92
+        }
+      ],
+      "recallCount": 18
+    },
+    {
+      "id": "mem-openai-dev-lockin",
+      "competitorId": "comp-openai",
+      "competitorName": "OpenAI",
+      "memoryType": "reflection",
+      "content": "OpenAI uses Batch API discounts (-50%) and prompt caching as a deliberate margin squeeze against independent model providers. By aggressively discounting asynchronous batch compute, they disincentivize enterprise data teams from hosting open weights on vLLM/Ollama.",
+      "category": "Pricing",
+      "temporalAnchor": "2024-11-01T00:00:00Z",
+      "importanceWeight": 0.88,
+      "sourceEventIds": [
+        "evt-openai-2026-09"
+      ],
+      "entities": [
+        "OpenAI",
+        "Batch API",
+        "Context Caching",
+        "Enterprise Lock-in"
+      ],
+      "relationships": [
+        {
+          "targetEntity": "Enterprise Budgets",
+          "relationType": "locking_annual_spend",
+          "strength": 0.9
+        }
+      ],
+      "recallCount": 9
+    }
+  ],
+  "signals": [
+    {
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "signalType": "potential_opportunity",
+      "title": "Market White Space Created by Tesla's Pricing Action",
+      "summary": "While Tesla focuses on pricing, enterprise customers sensitive to stability or margin seek alternative partners.",
+      "currentEventId": "evt-tesla-2026-09",
+      "currentEvent": {
+        "id": "evt-tesla-2026-09",
+        "competitorId": "comp-tesla",
+        "competitorName": "Tesla",
+        "title": "Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo",
+        "description": "Tesla lowered Model Y Long Range MSRP to $42,990 and dropped FSD subscription from $99/mo to $79/mo in North America.",
+        "eventDate": "2026-09-26T14:30:00Z",
+        "category": "Pricing",
+        "impactLevel": "high",
+        "primarySourceId": "src-tesla-01",
+        "confidence": 0.87,
+        "entities": [
+          "Tesla",
+          "Model Y",
+          "FSD Subscription",
+          "Giga Texas"
+        ],
+        "extractedMetrics": {
+          "price_delta_pct": -8.5,
+          "fsd_monthly_price": 79,
+          "new_base_price": 42990
+        },
+        "historicalConnection": "Similar pricing movements occurred 3 times previously (March 2024, January 2025, and August 2025), each preceding a quarterly delivery push.",
+        "isDemo": true,
+        "source": {
+          "id": "src-tesla-01",
+          "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+          "title": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+          "publisher": "Tesla Investor Relations",
+          "author": "Treasury & Pricing Operations",
+          "publishedAt": "2026-09-26T14:30:00Z",
+          "snippet": "Tesla Inc. announced an 8.5% price reduction on the Model Y Long Range and lowered the monthly FSD subscription to $79/mo across North America.",
+          "fullText": "AUSTIN, Texas — Tesla has updated consumer pricing on its top-selling Model Y SUV. The Long Range trim now starts at $42,990, representing an 8.5% decrease. Simultaneously, the monthly Full Self-Driving (Supervised) package was revised to $79/mo. Management cited manufacturing efficiencies at Giga Texas and battery cell pack cost reductions as primary drivers.",
+          "confidence": 0.96,
+          "isVerified": true
+        }
+      },
+      "historicalMemoryIds": [
+        "mem-tsla-pattern-01",
+        "mem-1790619967176-adl7u",
+        "mem-1790619967344-mejpa",
+        "mem-1790619967318-fyrhn"
+      ],
+      "historicalMemories": [
+        {
+          "id": "mem-tsla-pattern-01",
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "pattern",
+          "content": "Tesla operates a cyclical 6-to-8 month pricing adjustment playbook. Whenever inventory days exceed 28 days or competitor BEV price reductions occur, Tesla lowers Model Y baseline price by 6-9% and drops FSD subscription price to bolster annualized software recurring revenue.",
+          "category": "Pricing",
+          "temporalAnchor": "2024-03-01T00:00:00Z",
+          "importanceWeight": 0.94,
+          "sourceEventIds": [
+            "evt-tesla-2026-09",
+            "evt-tesla-2025-08",
+            "evt-tesla-2025-01"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "FSD Subscription",
+            "Pricing Elasticity"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Automotive Margin",
+              "relationType": "sacrifices_for_volume",
+              "strength": 0.9
+            },
+            {
+              "targetEntity": "FSD Subscription",
+              "relationType": "software_upsell_cushion",
+              "strength": 0.85
+            }
+          ],
+          "recallCount": 14
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo. Impact rated as high. Entities: Tesla, Model Y, FSD Subscription, Giga Texas.",
+          "category": "Pricing",
+          "temporalAnchor": "2026-09-26T14:30:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-01"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "FSD Subscription",
+            "Giga Texas"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.87
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967176-adl7u"
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla FSD Price Lowered to $99/mo and Global Refresh Announced. Impact rated as high. Entities: Tesla, FSD Subscription, Autopilot.",
+          "category": "Pricing",
+          "temporalAnchor": "2025-01-12T16:00:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-01"
+          ],
+          "entities": [
+            "Tesla",
+            "FSD Subscription",
+            "Autopilot"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.95
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967344-mejpa"
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla Q3 Price Cut on Model Y & Model 3 Across US Market. Impact rated as high. Entities: Tesla, Model Y, Model 3, Pricing Strategy.",
+          "category": "Pricing",
+          "temporalAnchor": "2025-08-14T10:00:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-02"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "Model 3",
+            "Pricing Strategy"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.93
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967318-fyrhn"
+        }
+      ],
+      "patternSummary": "Historical data shows a 15-20% customer churn inquiry window following major changes.",
+      "interpretation": "Direct outbound positioning targeting dissatisfied tier-1 customers during transition.",
+      "recommendedAction": "Launch targeted acquisition campaign offering frictionless migration assistance.",
+      "confidence": 0.85,
+      "urgency": "medium",
+      "detectedAt": "2026-09-28T19:13:56.548Z",
+      "acknowledged": false,
+      "id": "sig-1790622836548-v3po3"
+    },
+    {
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "signalType": "repeated_behavior",
+      "title": "Cyclical Pricing Movement by Tesla",
+      "summary": "Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo. Recurring pricing adjustment playbook: 3rd recorded price modification. Historically deployed to capture market share before quarter-end.",
+      "currentEventId": "evt-tesla-2026-09",
+      "currentEvent": {
+        "id": "evt-tesla-2026-09",
+        "competitorId": "comp-tesla",
+        "competitorName": "Tesla",
+        "title": "Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo",
+        "description": "Tesla lowered Model Y Long Range MSRP to $42,990 and dropped FSD subscription from $99/mo to $79/mo in North America.",
+        "eventDate": "2026-09-26T14:30:00Z",
+        "category": "Pricing",
+        "impactLevel": "high",
+        "primarySourceId": "src-tesla-01",
+        "confidence": 0.87,
+        "entities": [
+          "Tesla",
+          "Model Y",
+          "FSD Subscription",
+          "Giga Texas"
+        ],
+        "extractedMetrics": {
+          "price_delta_pct": -8.5,
+          "fsd_monthly_price": 79,
+          "new_base_price": 42990
+        },
+        "historicalConnection": "Similar pricing movements occurred 3 times previously (March 2024, January 2025, and August 2025), each preceding a quarterly delivery push.",
+        "isDemo": true,
+        "source": {
+          "id": "src-tesla-01",
+          "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+          "title": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+          "publisher": "Tesla Investor Relations",
+          "author": "Treasury & Pricing Operations",
+          "publishedAt": "2026-09-26T14:30:00Z",
+          "snippet": "Tesla Inc. announced an 8.5% price reduction on the Model Y Long Range and lowered the monthly FSD subscription to $79/mo across North America.",
+          "fullText": "AUSTIN, Texas — Tesla has updated consumer pricing on its top-selling Model Y SUV. The Long Range trim now starts at $42,990, representing an 8.5% decrease. Simultaneously, the monthly Full Self-Driving (Supervised) package was revised to $79/mo. Management cited manufacturing efficiencies at Giga Texas and battery cell pack cost reductions as primary drivers.",
+          "confidence": 0.96,
+          "isVerified": true
+        }
+      },
+      "historicalMemoryIds": [
+        "mem-tsla-pattern-01",
+        "mem-1790619967176-adl7u",
+        "mem-1790619967344-mejpa",
+        "mem-1790619967318-fyrhn"
+      ],
+      "historicalMemories": [
+        {
+          "id": "mem-tsla-pattern-01",
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "pattern",
+          "content": "Tesla operates a cyclical 6-to-8 month pricing adjustment playbook. Whenever inventory days exceed 28 days or competitor BEV price reductions occur, Tesla lowers Model Y baseline price by 6-9% and drops FSD subscription price to bolster annualized software recurring revenue.",
+          "category": "Pricing",
+          "temporalAnchor": "2024-03-01T00:00:00Z",
+          "importanceWeight": 0.94,
+          "sourceEventIds": [
+            "evt-tesla-2026-09",
+            "evt-tesla-2025-08",
+            "evt-tesla-2025-01"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "FSD Subscription",
+            "Pricing Elasticity"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Automotive Margin",
+              "relationType": "sacrifices_for_volume",
+              "strength": 0.9
+            },
+            {
+              "targetEntity": "FSD Subscription",
+              "relationType": "software_upsell_cushion",
+              "strength": 0.85
+            }
+          ],
+          "recallCount": 14
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo. Impact rated as high. Entities: Tesla, Model Y, FSD Subscription, Giga Texas.",
+          "category": "Pricing",
+          "temporalAnchor": "2026-09-26T14:30:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-01"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "FSD Subscription",
+            "Giga Texas"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.87
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967176-adl7u"
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla FSD Price Lowered to $99/mo and Global Refresh Announced. Impact rated as high. Entities: Tesla, FSD Subscription, Autopilot.",
+          "category": "Pricing",
+          "temporalAnchor": "2025-01-12T16:00:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-01"
+          ],
+          "entities": [
+            "Tesla",
+            "FSD Subscription",
+            "Autopilot"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.95
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967344-mejpa"
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla Q3 Price Cut on Model Y & Model 3 Across US Market. Impact rated as high. Entities: Tesla, Model Y, Model 3, Pricing Strategy.",
+          "category": "Pricing",
+          "temporalAnchor": "2025-08-14T10:00:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-02"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "Model 3",
+            "Pricing Strategy"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.93
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967318-fyrhn"
+        }
+      ],
+      "patternSummary": "Recurring pricing adjustment playbook: 3rd recorded price modification. Historically deployed to capture market share before quarter-end.",
+      "interpretation": "Tesla is testing price elasticity to accelerate top-of-funnel customer adoption, accepting gross margin dilution to lock in multi-year usage contracts.",
+      "recommendedAction": "Protect annual contracts with service-level tiering rather than matching direct unit pricing.",
+      "confidence": 0.89,
+      "urgency": "high",
+      "detectedAt": "2026-09-28T19:13:56.531Z",
+      "acknowledged": false,
+      "id": "sig-1790622836531-5ij4n"
+    },
+    {
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "signalType": "potential_opportunity",
+      "title": "Market White Space Created by Tesla's Pricing Action",
+      "summary": "While Tesla focuses on pricing, enterprise customers sensitive to stability or margin seek alternative partners.",
+      "currentEventId": "evt-tesla-2026-09",
+      "currentEvent": {
+        "id": "evt-tesla-2026-09",
+        "competitorId": "comp-tesla",
+        "competitorName": "Tesla",
+        "title": "Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo",
+        "description": "Tesla lowered Model Y Long Range MSRP to $42,990 and dropped FSD subscription from $99/mo to $79/mo in North America.",
+        "eventDate": "2026-09-26T14:30:00Z",
+        "category": "Pricing",
+        "impactLevel": "high",
+        "primarySourceId": "src-tesla-01",
+        "confidence": 0.87,
+        "entities": [
+          "Tesla",
+          "Model Y",
+          "FSD Subscription",
+          "Giga Texas"
+        ],
+        "extractedMetrics": {
+          "price_delta_pct": -8.5,
+          "fsd_monthly_price": 79,
+          "new_base_price": 42990
+        },
+        "historicalConnection": "Similar pricing movements occurred 3 times previously (March 2024, January 2025, and August 2025), each preceding a quarterly delivery push.",
+        "isDemo": true,
+        "source": {
+          "id": "src-tesla-01",
+          "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+          "title": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+          "publisher": "Tesla Investor Relations",
+          "author": "Treasury & Pricing Operations",
+          "publishedAt": "2026-09-26T14:30:00Z",
+          "snippet": "Tesla Inc. announced an 8.5% price reduction on the Model Y Long Range and lowered the monthly FSD subscription to $79/mo across North America.",
+          "fullText": "AUSTIN, Texas — Tesla has updated consumer pricing on its top-selling Model Y SUV. The Long Range trim now starts at $42,990, representing an 8.5% decrease. Simultaneously, the monthly Full Self-Driving (Supervised) package was revised to $79/mo. Management cited manufacturing efficiencies at Giga Texas and battery cell pack cost reductions as primary drivers.",
+          "confidence": 0.96,
+          "isVerified": true
+        }
+      },
+      "historicalMemoryIds": [
+        "mem-tsla-pattern-01",
+        "mem-1790619967176-adl7u",
+        "mem-1790619967344-mejpa",
+        "mem-1790619967318-fyrhn"
+      ],
+      "historicalMemories": [
+        {
+          "id": "mem-tsla-pattern-01",
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "pattern",
+          "content": "Tesla operates a cyclical 6-to-8 month pricing adjustment playbook. Whenever inventory days exceed 28 days or competitor BEV price reductions occur, Tesla lowers Model Y baseline price by 6-9% and drops FSD subscription price to bolster annualized software recurring revenue.",
+          "category": "Pricing",
+          "temporalAnchor": "2024-03-01T00:00:00Z",
+          "importanceWeight": 0.94,
+          "sourceEventIds": [
+            "evt-tesla-2026-09",
+            "evt-tesla-2025-08",
+            "evt-tesla-2025-01"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "FSD Subscription",
+            "Pricing Elasticity"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Automotive Margin",
+              "relationType": "sacrifices_for_volume",
+              "strength": 0.9
+            },
+            {
+              "targetEntity": "FSD Subscription",
+              "relationType": "software_upsell_cushion",
+              "strength": 0.85
+            }
+          ],
+          "recallCount": 14
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo. Impact rated as high. Entities: Tesla, Model Y, FSD Subscription, Giga Texas.",
+          "category": "Pricing",
+          "temporalAnchor": "2026-09-26T14:30:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-01"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "FSD Subscription",
+            "Giga Texas"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.87
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967176-adl7u"
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla FSD Price Lowered to $99/mo and Global Refresh Announced. Impact rated as high. Entities: Tesla, FSD Subscription, Autopilot.",
+          "category": "Pricing",
+          "temporalAnchor": "2025-01-12T16:00:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-01"
+          ],
+          "entities": [
+            "Tesla",
+            "FSD Subscription",
+            "Autopilot"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.95
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967344-mejpa"
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla Q3 Price Cut on Model Y & Model 3 Across US Market. Impact rated as high. Entities: Tesla, Model Y, Model 3, Pricing Strategy.",
+          "category": "Pricing",
+          "temporalAnchor": "2025-08-14T10:00:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-02"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "Model 3",
+            "Pricing Strategy"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.93
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967318-fyrhn"
+        }
+      ],
+      "patternSummary": "Historical data shows a 15-20% customer churn inquiry window following major changes.",
+      "interpretation": "Direct outbound positioning targeting dissatisfied tier-1 customers during transition.",
+      "recommendedAction": "Launch targeted acquisition campaign offering frictionless migration assistance.",
+      "confidence": 0.85,
+      "urgency": "medium",
+      "detectedAt": "2026-09-28T18:26:07.499Z",
+      "acknowledged": false,
+      "id": "sig-1790619967499-6czzj"
+    },
+    {
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "signalType": "repeated_behavior",
+      "title": "Cyclical Pricing Movement by Tesla",
+      "summary": "Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo. Recurring pricing adjustment playbook: 3rd recorded price modification. Historically deployed to capture market share before quarter-end.",
+      "currentEventId": "evt-tesla-2026-09",
+      "currentEvent": {
+        "id": "evt-tesla-2026-09",
+        "competitorId": "comp-tesla",
+        "competitorName": "Tesla",
+        "title": "Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo",
+        "description": "Tesla lowered Model Y Long Range MSRP to $42,990 and dropped FSD subscription from $99/mo to $79/mo in North America.",
+        "eventDate": "2026-09-26T14:30:00Z",
+        "category": "Pricing",
+        "impactLevel": "high",
+        "primarySourceId": "src-tesla-01",
+        "confidence": 0.87,
+        "entities": [
+          "Tesla",
+          "Model Y",
+          "FSD Subscription",
+          "Giga Texas"
+        ],
+        "extractedMetrics": {
+          "price_delta_pct": -8.5,
+          "fsd_monthly_price": 79,
+          "new_base_price": 42990
+        },
+        "historicalConnection": "Similar pricing movements occurred 3 times previously (March 2024, January 2025, and August 2025), each preceding a quarterly delivery push.",
+        "isDemo": true,
+        "source": {
+          "id": "src-tesla-01",
+          "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+          "title": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+          "publisher": "Tesla Investor Relations",
+          "author": "Treasury & Pricing Operations",
+          "publishedAt": "2026-09-26T14:30:00Z",
+          "snippet": "Tesla Inc. announced an 8.5% price reduction on the Model Y Long Range and lowered the monthly FSD subscription to $79/mo across North America.",
+          "fullText": "AUSTIN, Texas — Tesla has updated consumer pricing on its top-selling Model Y SUV. The Long Range trim now starts at $42,990, representing an 8.5% decrease. Simultaneously, the monthly Full Self-Driving (Supervised) package was revised to $79/mo. Management cited manufacturing efficiencies at Giga Texas and battery cell pack cost reductions as primary drivers.",
+          "confidence": 0.96,
+          "isVerified": true
+        }
+      },
+      "historicalMemoryIds": [
+        "mem-tsla-pattern-01",
+        "mem-1790619967176-adl7u",
+        "mem-1790619967344-mejpa",
+        "mem-1790619967318-fyrhn"
+      ],
+      "historicalMemories": [
+        {
+          "id": "mem-tsla-pattern-01",
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "pattern",
+          "content": "Tesla operates a cyclical 6-to-8 month pricing adjustment playbook. Whenever inventory days exceed 28 days or competitor BEV price reductions occur, Tesla lowers Model Y baseline price by 6-9% and drops FSD subscription price to bolster annualized software recurring revenue.",
+          "category": "Pricing",
+          "temporalAnchor": "2024-03-01T00:00:00Z",
+          "importanceWeight": 0.94,
+          "sourceEventIds": [
+            "evt-tesla-2026-09",
+            "evt-tesla-2025-08",
+            "evt-tesla-2025-01"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "FSD Subscription",
+            "Pricing Elasticity"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Automotive Margin",
+              "relationType": "sacrifices_for_volume",
+              "strength": 0.9
+            },
+            {
+              "targetEntity": "FSD Subscription",
+              "relationType": "software_upsell_cushion",
+              "strength": 0.85
+            }
+          ],
+          "recallCount": 14
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo. Impact rated as high. Entities: Tesla, Model Y, FSD Subscription, Giga Texas.",
+          "category": "Pricing",
+          "temporalAnchor": "2026-09-26T14:30:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-01"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "FSD Subscription",
+            "Giga Texas"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.87
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967176-adl7u"
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla FSD Price Lowered to $99/mo and Global Refresh Announced. Impact rated as high. Entities: Tesla, FSD Subscription, Autopilot.",
+          "category": "Pricing",
+          "temporalAnchor": "2025-01-12T16:00:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-01"
+          ],
+          "entities": [
+            "Tesla",
+            "FSD Subscription",
+            "Autopilot"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.95
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967344-mejpa"
+        },
+        {
+          "competitorId": "comp-tesla",
+          "competitorName": "Tesla",
+          "memoryType": "relationship",
+          "content": "Tesla: Tesla Q3 Price Cut on Model Y & Model 3 Across US Market. Impact rated as high. Entities: Tesla, Model Y, Model 3, Pricing Strategy.",
+          "category": "Pricing",
+          "temporalAnchor": "2025-08-14T10:00:00Z",
+          "importanceWeight": 0.85,
+          "sourceEventIds": [
+            "src-tesla-02"
+          ],
+          "entities": [
+            "Tesla",
+            "Model Y",
+            "Model 3",
+            "Pricing Strategy"
+          ],
+          "relationships": [
+            {
+              "targetEntity": "Pricing",
+              "relationType": "strategic_focus",
+              "strength": 0.93
+            }
+          ],
+          "recallCount": 2,
+          "id": "mem-1790619967318-fyrhn"
+        }
+      ],
+      "patternSummary": "Recurring pricing adjustment playbook: 3rd recorded price modification. Historically deployed to capture market share before quarter-end.",
+      "interpretation": "Tesla is testing price elasticity to accelerate top-of-funnel customer adoption, accepting gross margin dilution to lock in multi-year usage contracts.",
+      "recommendedAction": "Protect annual contracts with service-level tiering rather than matching direct unit pricing.",
+      "confidence": 0.89,
+      "urgency": "high",
+      "detectedAt": "2026-09-28T18:26:07.475Z",
+      "acknowledged": false,
+      "id": "sig-1790619967475-b2s9n"
+    },
+    {
+      "id": "sig-tsla-pricing-war",
+      "competitorId": "comp-tesla",
+      "competitorName": "Tesla",
+      "signalType": "repeated_behavior",
+      "title": "Cyclical Model Y Price Reduction & Software Substitution",
+      "summary": "Tesla lowered Model Y prices by 8.5% while simultaneously cutting FSD subscription to $79/mo.",
+      "currentEventId": "evt-tesla-2026-09",
+      "historicalMemoryIds": [
+        "mem-tsla-pattern-01"
+      ],
+      "patternSummary": "Pricing change followed competitor inventory build; occurred 3 times previously (March 2024, Jan 2025, Aug 2025).",
+      "interpretation": "Tesla is actively trading short-term hardware gross margin (targeting 17% floor) to accelerate active FSD fleet size, creating an irreversible software moat ahead of Robotaxi network launch.",
+      "recommendedAction": "OEMs competing with Model Y must not enter a pure price war; instead bundle 3 years of free DC fast charging and emphasize interior build quality.",
+      "confidence": 0.87,
+      "urgency": "high",
+      "detectedAt": "2026-09-27T08:00:00Z",
+      "acknowledged": false
+    },
+    {
+      "id": "sig-anthropic-counter-cycle",
+      "competitorId": "comp-anthropic",
+      "competitorName": "Anthropic",
+      "signalType": "strategic_shift",
+      "title": "Frontier Hybrid Reasoning Parity with Low-Latency Streaming",
+      "summary": "Claude 3.7 Sonnet introduces hybrid test-time reasoning compute, nullifying OpenAI's exclusive reasoning advantage.",
+      "currentEventId": "evt-anthropic-2026-09",
+      "historicalMemoryIds": [
+        "mem-anthropic-release-cadence"
+      ],
+      "patternSummary": "Anthropic repeatedly releases major generational leaps 14 to 21 days after OpenAI releases.",
+      "interpretation": "Anthropic has solved the latency penalty of reasoning models by providing variable thought token budgets. This threatens OpenAI's developer mindshare in coding and agentic workflows.",
+      "recommendedAction": "AI application platforms should immediately support Claude 3.7 hybrid reasoning parameters to prevent developer churn to AWS Bedrock.",
+      "confidence": 0.94,
+      "urgency": "immediate",
+      "detectedAt": "2026-09-23T10:30:00Z",
+      "acknowledged": false
+    },
+    {
+      "id": "sig-lakehouse-commoditization",
+      "competitorId": "comp-snowflake",
+      "competitorName": "Snowflake",
+      "signalType": "potential_threat",
+      "title": "Storage Layer Neutralization via Polaris Catalog GA",
+      "summary": "Snowflake Polaris Catalog general availability commoditizes proprietary lakehouse storage formats.",
+      "currentEventId": "evt-snowflake-2026-09",
+      "historicalMemoryIds": [
+        "mem-lakehouse-format-war"
+      ],
+      "patternSummary": "Mirroring Q3 2024 margin defense strategy against Databricks' Tabular acquisition.",
+      "interpretation": "By offering an open-source Iceberg catalog, Snowflake prevents Databricks from dominating open-table governance, shifting customer purchase decisions back to SQL engine execution speed.",
+      "recommendedAction": "Data platform providers must ensure native metadata interoperability with both Polaris and Unity Catalog.",
+      "confidence": 0.84,
+      "urgency": "medium",
+      "detectedAt": "2026-09-19T14:15:00Z",
+      "acknowledged": true
+    },
+    {
+      "id": "sig-batch-pricing-squeeze",
+      "competitorId": "comp-openai",
+      "competitorName": "OpenAI",
+      "signalType": "potential_opportunity",
+      "title": "Asynchronous Batch Inference Pricing Squeeze",
+      "summary": "OpenAI offers 50% discount on Batch API, targeting ETL and batch processing workloads.",
+      "currentEventId": "evt-openai-2026-09",
+      "historicalMemoryIds": [
+        "mem-openai-dev-lockin"
+      ],
+      "patternSummary": "Recurring discount expansion to crowd out self-hosted open source inference.",
+      "interpretation": "Enterprises with high-latency tolerance pipelines can cut LLM operational expenditure in half by refactoring real-time queries into batch queues.",
+      "recommendedAction": "Refactor background enrichment and data classification pipelines to utilize 24-hour batch queues.",
+      "confidence": 0.91,
+      "urgency": "medium",
+      "detectedAt": "2026-09-05T11:00:00Z",
+      "acknowledged": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-tesla-01",
+      "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+      "title": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+      "publisher": "Tesla Investor Relations",
+      "author": "Treasury & Pricing Operations",
+      "publishedAt": "2026-09-26T14:30:00Z",
+      "snippet": "Tesla Inc. announced an 8.5% price reduction on the Model Y Long Range and lowered the monthly FSD subscription to $79/mo across North America.",
+      "fullText": "AUSTIN, Texas — Tesla has updated consumer pricing on its top-selling Model Y SUV. The Long Range trim now starts at $42,990, representing an 8.5% decrease. Simultaneously, the monthly Full Self-Driving (Supervised) package was revised to $79/mo. Management cited manufacturing efficiencies at Giga Texas and battery cell pack cost reductions as primary drivers.",
+      "confidence": 0.96,
+      "isVerified": true
+    },
+    {
+      "id": "src-tesla-02",
+      "url": "https://bloomberg.com/news/articles/2026-09-26/tesla-slashes-prices-ev-price-war",
+      "title": "Tesla Rekindles EV Margin War Following Chinese Export Influx",
+      "publisher": "Bloomberg Intelligence",
+      "author": "Dana Hull",
+      "publishedAt": "2026-09-26T18:15:00Z",
+      "snippet": "Automotive analysts observe this marks Tesla's fourth major pricing intervention following competitor inventory builds.",
+      "fullText": "Tesla's sudden price adjustment mirrors tactical price cuts in early 2024 and mid 2025, systematically pressuring legacy OEM EV margins just as Ford and GM report higher dealer inventory.",
+      "confidence": 0.92,
+      "isVerified": true,
+      "conflictsDetected": true,
+      "conflictDetails": {
+        "conflictingSourceUrl": "https://reuters.com/business/autos/tesla-dealer-margins-disputed-2026-09-27",
+        "conflictingPublisher": "Reuters Automotive",
+        "divergenceReason": "Bloomberg reports price cut is margin-pressuring move against legacy OEMs, whereas Reuters reports internal dealer incentives suggest an inventory clearance ahead of Juniper refresh."
+      }
+    },
+    {
+      "id": "src-anthropic-01",
+      "url": "https://www.anthropic.com/news/claude-3-7-sonnet-hybrid-reasoning",
+      "title": "Introducing Claude 3.7 Sonnet: Hybrid Dynamic Reasoning Architecture",
+      "publisher": "Anthropic Research",
+      "author": "Anthropic Engineering",
+      "publishedAt": "2026-09-22T17:00:00Z",
+      "snippet": "Anthropic introduces Claude 3.7 Sonnet, combining instant token streaming with variable-depth test-time reasoning.",
+      "fullText": "Today we are releasing Claude 3.7 Sonnet. For the first time, developers can control the reasoning budget directly via API, allowing sub-second responses for standard queries and up to 64k tokens of continuous reflection for complex enterprise software tasks. Pricing remains pegged at $3 per million input tokens.",
+      "confidence": 0.98,
+      "isVerified": true
+    },
+    {
+      "id": "src-snowflake-01",
+      "url": "https://www.snowflake.com/blog/cortex-ai-polaris-catalog-ga",
+      "title": "Snowflake Polaris Catalog Reaches General Availability with Apache Iceberg Tiering",
+      "publisher": "Snowflake Official Engineering Blog",
+      "author": "Benoit Dageville",
+      "publishedAt": "2026-09-18T13:00:00Z",
+      "snippet": "Polaris Catalog enables cross-engine open data governance, directly competing with Databricks Unity Catalog.",
+      "fullText": "Snowflake announces the broad availability of Polaris Catalog, an open source catalog for Apache Iceberg. Customers can now query open table formats with zero vendor lock-in, supported by managed Cortex AI search indexing.",
+      "confidence": 0.95,
+      "isVerified": true
+    },
+    {
+      "id": "src-databricks-01",
+      "url": "https://www.databricks.com/blog/mosaic-ai-agent-framework",
+      "title": "Databricks Unveils Mosaic AI Agent Evaluation & Compound AI Systems",
+      "publisher": "Databricks Press",
+      "author": "Ali Ghodsi",
+      "publishedAt": "2026-09-10T15:00:00Z",
+      "snippet": "Databricks deepens its enterprise generative AI moat with automated evaluation metrics and compound model routing.",
+      "fullText": "Enterprise customers using Databricks Lakehouse can now evaluate, deploy, and govern compound agentic systems. Over 40% of Databricks enterprise accounts have adopted Mosaic AI since the MosaicML acquisition.",
+      "confidence": 0.94,
+      "isVerified": true
+    },
+    {
+      "id": "src-openai-01",
+      "url": "https://openai.com/index/o3-enterprise-tier-update",
+      "title": "OpenAI Announces o3 Deep Reasoning Engine & New Enterprise Volume Tiers",
+      "publisher": "OpenAI Press",
+      "author": "OpenAI Go-To-Market",
+      "publishedAt": "2026-09-04T16:00:00Z",
+      "snippet": "OpenAI debuts o3 with specialized tier pricing for enterprise agents, while adjusting batch API discount to 50%.",
+      "fullText": "OpenAI introduces o3 for mission-critical STEM and systems programming. Enterprise API customers gain access to dedicated compute instances and expanded context caching.",
+      "confidence": 0.97,
+      "isVerified": true
+    }
+  ],
+  "reports": [
+    {
+      "title": "Strategic Brief: Tesla - Pricing Movement Analysis",
+      "executiveSummary": "COMPASS AI monitored an important pricing event by Tesla. Correlating current event against 4 recalled historical memories identified: \"Recurring pricing adjustment playbook: 3rd recorded price modification. Historically deployed to capture market share before quarter-end.\". Recommended strategic posture: proactive defense.",
+      "competitorsCovered": [
+        "Tesla"
+      ],
+      "sections": [
+        {
+          "currentEvent": "Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo (26/9/2026). Tesla lowered Model Y Long Range MSRP to $42,990 and dropped FSD subscription from $99/mo to $79/mo in North America.",
+          "historicalMemory": "Tesla operates a cyclical 6-to-8 month pricing adjustment playbook. Whenever inventory days exceed 28 days or competitor BEV price reductions occur, Tesla lowers Model Y baseline price by 6-9% and drops FSD subscription price to bolster annualized software recurring revenue. | Tesla: Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo. Impact rated as high. Entities: Tesla, Model Y, FSD Subscription, Giga Texas. | Tesla: Tesla FSD Price Lowered to $99/mo and Global Refresh Announced. Impact rated as high. Entities: Tesla, FSD Subscription, Autopilot. | Tesla: Tesla Q3 Price Cut on Model Y & Model 3 Across US Market. Impact rated as high. Entities: Tesla, Model Y, Model 3, Pricing Strategy.",
+          "pattern": "Recurring pricing adjustment playbook: 3rd recorded price modification. Historically deployed to capture market share before quarter-end.",
+          "interpretation": "Tesla is testing price elasticity to accelerate top-of-funnel customer adoption, accepting gross margin dilution to lock in multi-year usage contracts.",
+          "sourceEvidence": [
+            {
+              "sourceTitle": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+              "publisher": "Tesla Investor Relations",
+              "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+              "publishedAt": "2026-09-26T14:30:00Z",
+              "quote": "Tesla Inc. announced an 8.5% price reduction on the Model Y Long Range and lowered the monthly FSD subscription to $79/mo across North America.",
+              "confidence": 0.96
+            }
+          ]
+        }
+      ],
+      "authorAgent": "Strategic Insight Agent",
+      "confidence": 0.88,
+      "id": "rep-1790622836564",
+      "createdAt": "2026-09-28T19:13:56.564Z"
+    },
+    {
+      "title": "Strategic Brief: Tesla - Pricing Movement Analysis",
+      "executiveSummary": "COMPASS AI monitored an important pricing event by Tesla. Correlating current event against 4 recalled historical memories identified: \"Recurring pricing adjustment playbook: 3rd recorded price modification. Historically deployed to capture market share before quarter-end.\". Recommended strategic posture: proactive defense.",
+      "competitorsCovered": [
+        "Tesla"
+      ],
+      "sections": [
+        {
+          "currentEvent": "Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo (26/9/2026). Tesla lowered Model Y Long Range MSRP to $42,990 and dropped FSD subscription from $99/mo to $79/mo in North America.",
+          "historicalMemory": "Tesla operates a cyclical 6-to-8 month pricing adjustment playbook. Whenever inventory days exceed 28 days or competitor BEV price reductions occur, Tesla lowers Model Y baseline price by 6-9% and drops FSD subscription price to bolster annualized software recurring revenue. | Tesla: Tesla Reduced Model Y Price by 8.5% and FSD Subscription to $79/mo. Impact rated as high. Entities: Tesla, Model Y, FSD Subscription, Giga Texas. | Tesla: Tesla FSD Price Lowered to $99/mo and Global Refresh Announced. Impact rated as high. Entities: Tesla, FSD Subscription, Autopilot. | Tesla: Tesla Q3 Price Cut on Model Y & Model 3 Across US Market. Impact rated as high. Entities: Tesla, Model Y, Model 3, Pricing Strategy.",
+          "pattern": "Recurring pricing adjustment playbook: 3rd recorded price modification. Historically deployed to capture market share before quarter-end.",
+          "interpretation": "Tesla is testing price elasticity to accelerate top-of-funnel customer adoption, accepting gross margin dilution to lock in multi-year usage contracts.",
+          "sourceEvidence": [
+            {
+              "sourceTitle": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+              "publisher": "Tesla Investor Relations",
+              "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+              "publishedAt": "2026-09-26T14:30:00Z",
+              "quote": "Tesla Inc. announced an 8.5% price reduction on the Model Y Long Range and lowered the monthly FSD subscription to $79/mo across North America.",
+              "confidence": 0.96
+            }
+          ]
+        }
+      ],
+      "authorAgent": "Strategic Insight Agent",
+      "confidence": 0.88,
+      "id": "rep-1790619967521",
+      "createdAt": "2026-09-28T18:26:07.522Z"
+    },
+    {
+      "id": "rep-2026-q3-strategic-brief",
+      "title": "Q3 2026 Frontier Intelligence Briefing: Dynamic Reasoning Wars and Autonomous Margin Sacrifices",
+      "executiveSummary": "Analysis of 18 competitive actions across Frontier AI, Enterprise Cloud, and Autonomous Mobility reveals two defining playbooks: (1) Tesla's deliberate erosion of hardware gross margins to secure permanent software subscription locks, and (2) Anthropic's successful counter-cadence strategy targeting developer lock-in via variable test-time reasoning.",
+      "competitorsCovered": [
+        "Tesla",
+        "Anthropic",
+        "OpenAI",
+        "Snowflake",
+        "Databricks"
+      ],
+      "sections": [
+        {
+          "currentEvent": "Tesla lowered Model Y Long Range baseline price by 8.5% ($42,990) and revised FSD subscription to $79/month across North America (Sept 26, 2026).",
+          "historicalMemory": "Hindsight Recall retrieved 3 prior instances (March 2024, January 2025, August 2025) of coordinated Model Y price cuts. In each case, hardware price concessions preceded quarterly delivery deadlines and directly subsidized FSD software adoption.",
+          "pattern": "Tesla follows a strict cyclical price intervention protocol whenever dealer/inventory supply exceeds 28 days. Hardware gross margin is intentionally traded for active fleet training volume.",
+          "interpretation": "Legacy automotive competitors operating on traditional dealer franchise models cannot match sub-$80/month autonomous software economics without diluting warranty reserves. Tesla is solidifying a two-sided network effect ahead of wide autonomous Robotaxi scaling.",
+          "sourceEvidence": [
+            {
+              "sourceTitle": "Tesla Adjusts North American Model Y & Autonomous FSD Subscription Pricing",
+              "publisher": "Tesla Investor Relations",
+              "url": "https://ir.tesla.com/press-release/model-y-pricing-update-sept-2026",
+              "publishedAt": "2026-09-26T14:30:00Z",
+              "quote": "Model Y Long Range trim now starts at $42,990... monthly Full Self-Driving (Supervised) package revised to $79/mo.",
+              "confidence": 0.96
+            },
+            {
+              "sourceTitle": "Tesla Rekindles EV Margin War Following Chinese Export Influx",
+              "publisher": "Bloomberg Intelligence",
+              "url": "https://bloomberg.com/news/articles/2026-09-26/tesla-slashes-prices-ev-price-war",
+              "publishedAt": "2026-09-26T18:15:00Z",
+              "quote": "This marks Tesla's fourth major pricing intervention following competitor inventory builds.",
+              "confidence": 0.92
+            }
+          ]
+        },
+        {
+          "currentEvent": "Anthropic released Claude 3.7 Sonnet with hybrid reasoning budget controls pegged at $3 per million input tokens (Sept 22, 2026).",
+          "historicalMemory": "Anthropic has executed 4 counter-announcements within 14-21 days of major OpenAI releases since Q2 2024. Prior events include Claude 3.5 Sonnet computer use following OpenAI DevDay previews.",
+          "pattern": "Counter-cyclical product release pacing designed to intercept enterprise developer evaluation cycles before multi-year enterprise OpenAI agreements close.",
+          "interpretation": "By combining low-latency token streaming with arbitrary deep thinking tokens in a single endpoint, Anthropic eliminates the UX dilemma between fast response times and deep mathematical verification.",
+          "sourceEvidence": [
+            {
+              "sourceTitle": "Introducing Claude 3.7 Sonnet: Hybrid Dynamic Reasoning Architecture",
+              "publisher": "Anthropic Research",
+              "url": "https://www.anthropic.com/news/claude-3-7-sonnet-hybrid-reasoning",
+              "publishedAt": "2026-09-22T17:00:00Z",
+              "quote": "Developers can control the reasoning budget directly via API, allowing sub-second responses for standard queries and up to 64k tokens of continuous reflection.",
+              "confidence": 0.98
+            }
+          ]
+        }
+      ],
+      "authorAgent": "COMPASS Strategic Insight Agent",
+      "confidence": 0.93,
+      "createdAt": "2026-09-27T06:00:00Z"
+    }
+  ]
+}
